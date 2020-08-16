@@ -30,29 +30,29 @@ Update Student Details....
 
 View Particular Student....
 
-![](https://github.com/Bapuso-Sawant/Online-Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(841).png)
+![](https://github.com/Bapuso-Sawant/Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(841).png)
 
 
 Take Attendance....
 
-![](https://github.com/Bapuso-Sawant/Online-Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(843).png)
+![](https://github.com/Bapuso-Sawant/Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(843).png)
 
 
 Search Attendance After Taking Attendance[You Can See All Attendance OR You Can Search Attendacne By Particular Details]....
 
-![](https://github.com/Bapuso-Sawant/Online-Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(842).png)
+![](https://github.com/Bapuso-Sawant/Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(842).png)
 
 
 Search By Details....
 
-![](https://github.com/Bapuso-Sawant/Online-Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(846).png)
+![](https://github.com/Bapuso-Sawant/Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(846).png)
 
 
 Attendance If Student Present....
 
-![](https://github.com/Bapuso-Sawant/Online-Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(845).png)
+![](https://github.com/Bapuso-Sawant/Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(845).png)
 
 
 Attendance If Student Absent....
 
-![](https://github.com/Bapuso-Sawant/Online-Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(847).png)
+![](https://github.com/Bapuso-Sawant/Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(847).png)
