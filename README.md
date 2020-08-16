@@ -5,27 +5,27 @@ This Is Online Attendance System Using Face Recognition Which Is Build In Django
 
 Login Page....
 
-![](https://github.com/Bapuso-Sawant/Online-Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(861).png)
+![](https://github.com/Bapuso-Sawant/Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(861).png)
 
 
 Dashboard....
 
-![](https://github.com/Bapuso-Sawant/Online-Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(835).png)
+![](https://github.com/Bapuso-Sawant/Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(835).png)
 
 
 Add Students....
 
-![](https://github.com/Bapuso-Sawant/Online-Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(856).png)
+![](https://github.com/Bapuso-Sawant/Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(856).png)
 
 
 View Students Details....
 
-![](https://github.com/Bapuso-Sawant/Online-Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(839).png)
+![](https://github.com/Bapuso-Sawant/Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(839).png)
 
 
 Update Student Details....
 
-![](https://github.com/Bapuso-Sawant/Online-Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(840).png)
+![](https://github.com/Bapuso-Sawant/Attendance-System-Using-Face-Recognition/blob/master/Screenshot%20(840).png)
 
 
 View Particular Student....
